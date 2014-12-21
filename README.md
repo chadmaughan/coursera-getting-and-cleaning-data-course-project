@@ -3,7 +3,7 @@ Course Project: Getting and Cleaning Data (2014-12)
 
 ## Installation
 * Checkout this repository (note the location where cloned)
-* Download the data to the cloned repository path (or optionally use the zip archive in this repository)
+* Download the data to the cloned repository path (from previous step): https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 * Unzip the data with default options
 `unzip getdata-projectfiles-UCI HAR Dataset.zip`
 
